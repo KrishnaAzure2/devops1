@@ -1,0 +1,9 @@
+git hub
+maven
+jakkins 
+ansible
+nexus
+docker
+cubernates
+Linux commands
+jira 
